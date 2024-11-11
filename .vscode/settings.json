@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "netdb.h": "c",
+        "sdkconfig.h": "c",
+        "string_view": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "initializer_list": "cpp",
+        "cstdint": "cpp"
+    }
+}
